@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheNiravPrajapati
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React Native
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNiravPrajapati)](https://github.com/TheNiravPrajapati/github-readme-stats)
