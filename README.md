@@ -1,7 +1,10 @@
 <h1 align="center">Hey there, I'm Nirav 👋</h1>
 <h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%7C+CodeIgniter+%7C+WordPress+%7C+Core+PHP;Turning+ideas+into+code+since+day+one!" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Laravel+%7C+CodeIgniter+%7C+WordPress;Core+PHP+Developer+from+India" alt="Typing SVG" />
+</div>
+
 
 ---
 
@@ -38,6 +41,6 @@
 ---
 
 ### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-prajapati-955a59227/)  
 _Always happy to chat about web dev, cool projects, or tech in general!_
 
