@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Laravel+%7C+CodeIgniter+%7C+WordPress;Full+Stack+Developer+from+India" alt="Typing SVG" />
 </div>
 
-
 ---
 
 - 👋 Hi, I’m **@TheNiravPrajapati**
@@ -16,21 +15,33 @@
 
 ---
 
-### 🧰 Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧠 My Skills
+
+#### 💻 Languages
+HTML • CSS • JavaScript • C • C++ • Java • PHP • WordPress • ASP.NET
+
+#### 📚 Libraries
+Node.js • jQuery
+
+#### 🧩 Frameworks
+Bootstrap • Tailwind CSS • CodeIgniter • Laravel
+
+#### 🗄️ Databases
+MySQL • phpMyAdmin • MongoDB
+
+#### 🔌 WordPress Plugins
+Elementor • Divi • WP Bakery • Gutenberg • Contact Form 7  
+Advanced Custom Fields (ACF) • WooCommerce • Mailchimp • ConvertKit
+
+#### 🛠️ Tools & Software
+Figma • Canva • Microsoft Office (Word, Excel, PowerPoint)  
+Photoshop • Visual Studio • VS Code • Git • GitHub  
+Postman • XAMPP • PuTTY
 
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNiravPrajapati&layout=compact&theme=tokyonight)](https://github.com/TheNiravPrajapati/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNiravPrajapati&layout=compact&theme=tokyonight)](https://github.com/TheNiravPrajapati/github-readme-stats)  
 ![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNiravPrajapati&show_icons=true&theme=tokyonight)
 
 ---
@@ -43,4 +54,3 @@
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirav-prajapati-955a59227/)  
 _Always happy to chat about web dev, cool projects, or tech in general!_
-
