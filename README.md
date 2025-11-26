@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Nirav 👋</h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+<!-- <h3 align="center">A passionate Web Developer from India 🇮🇳</h3> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Laravel+%7C+CodeIgniter+%7C+WordPress;Full+Stack+Developer+from+India;Python+Developer;Flutter+Developer" alt="Typing SVG" />
