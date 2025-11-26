@@ -64,7 +64,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNiravPrajapati&layout=compact&theme=tokyonight)](https://github.com/TheNiravPrajapati/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiravPrajapati&layout=compact&theme=tokyonight)](https://github.com/NiravPrajapati)
+
 
 ---
 
